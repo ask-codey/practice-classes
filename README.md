@@ -100,3 +100,7 @@ Methods:
 One constructor, with `string planeNumber, int totalFirstClassSeats, int totalCoachSeats`.
 
 `bool ReserveSeats(bool forFirstClass, int totalNumberOfSeats)` books that many seats in first class or coach, and returns `true`. If there aren't enough seats left, it books nothing and returns `false`.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
