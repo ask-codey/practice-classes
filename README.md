@@ -1,17 +1,17 @@
-# Practice: Classes
+# Exercise: Classes
 
-Practice code for the lesson **Practice: Classes** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Classes** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-In this exercise you write six classes from scratch, in the `ClassesPractice` project. The tests in `ClassesPractice.Tests` check that each class has the right properties, constructors and methods, and that they behave correctly.
+In this exercise you write six classes from scratch, in the `ClassesExercise` project. The tests in `ClassesExercise.Tests` check that each class has the right properties, constructors and methods, and that they behave correctly.
 
 ## Getting started
 
-1. Open `ClassesPractice.slnx` in Visual Studio.
+1. Open `ClassesExercise.slnx` in Visual Studio.
 2. Choose **Test > Run All Tests**. Every test fails at first: none of the classes exist yet.
-3. Right-click the `ClassesPractice` project, choose **Add > Class...**, and name it `Rectangle.cs`. Start with `namespace ClassesPractice;` at the top, and make the class `public`.
+3. Right-click the `ClassesExercise` project, choose **Add > Class...**, and name it `Rectangle.cs`. Start with `namespace ClassesExercise;` at the top, and make the class `public`.
 4. Write just enough to pass one test, run the tests again, and repeat.
 
-Or, in Git Bash: create `ClassesPractice/Rectangle.cs` in VS Code, and run `dotnet test`.
+Or, in Git Bash: create `ClassesExercise/Rectangle.cs` in VS Code, and run `dotnet test`.
 
 ## How to read the tables
 
